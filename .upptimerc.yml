@@ -4,7 +4,7 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: cloud.lallemand.fr
+  - name: Nextcloud
     url: https://cloud.lallemand.fr
   - name: Cormeilles
     url: https://home.cormeilles.lallemand.fr
