@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Nextcloud",
+    "url": "https://cloud.lallemand.fr",
+    "slug": "nextcloud",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 750
+  },
+  {
+    "name": "Cormeilles",
+    "url": "https://home.cormeilles.lallemand.fr",
+    "slug": "cormeilles",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1160
+  },
+  {
+    "name": "Dizy",
+    "url": "https://home.dizy.lallemand.fr",
+    "slug": "dizy",
+    "status": "up",
+    "uptime": "66.70%",
+    "time": 10133
+  },
+  {
+    "name": "https://productmodelling.axa.com/",
+    "url": "https://productmodelling.axa.com/",
+    "slug": "https-productmodelling-axa-com",
+    "status": "down",
+    "uptime": "4.68%",
+    "time": 0
+  }
+]
