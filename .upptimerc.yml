@@ -10,6 +10,8 @@ sites:
     url: https://home.cormeilles.lallemand.fr
   - name: Dizy
     url: https://home.dizy.lallemand.fr
+  - name: https://productmodelling.axa.com/
+    url: https://productmodelling.axa.com/
 
 status-website:
   baseUrl: /upptime
