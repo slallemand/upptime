@@ -5,7 +5,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 795
+    "time": 805
   },
   {
     "name": "Cormeilles",
@@ -13,7 +13,7 @@
     "slug": "cormeilles",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1168
+    "time": 1171
   },
   {
     "name": "https://productmodeler.axa.com",
@@ -28,7 +28,7 @@
     "url": "https://home.dizy.lallemand.fr",
     "slug": "dizy",
     "status": "up",
-    "uptime": "36.91%",
-    "time": 6248
+    "uptime": "89.93%",
+    "time": 5990
   }
 ]
