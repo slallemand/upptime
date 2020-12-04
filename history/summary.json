@@ -5,7 +5,15 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 788
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 793,
+    "timeDay": 839,
+    "timeWeek": 793,
+    "timeMonth": 793,
+    "timeYear": 793
   },
   {
     "name": "Cormeilles",
@@ -13,7 +21,15 @@
     "slug": "cormeilles",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1134
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1159,
+    "timeDay": 1455,
+    "timeWeek": 1159,
+    "timeMonth": 1159,
+    "timeYear": 1159
   },
   {
     "name": "https://productmodeler.axa.com",
@@ -21,14 +37,30 @@
     "slug": "https-productmodeler-axa-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 957
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 967,
+    "timeDay": 1044,
+    "timeWeek": 967,
+    "timeMonth": 967,
+    "timeYear": 967
   },
   {
     "name": "Dizy",
     "url": "https://home.dizy.lallemand.fr",
     "slug": "dizy",
     "status": "up",
-    "uptime": "96.61%",
-    "time": 5211
+    "uptime": "97.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.27%",
+    "time": 8240,
+    "timeDay": 2890,
+    "timeWeek": 8240,
+    "timeMonth": 8240,
+    "timeYear": 8240
   }
 ]
