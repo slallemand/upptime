@@ -25,19 +25,19 @@
     "url": "https://home.cormeilles.lallemand.fr",
     "icon": "https://favicons.githubusercontent.com/home.cormeilles.lallemand.fr",
     "slug": "cormeilles",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 954,
-    "timeDay": 634,
-    "timeWeek": 925,
-    "timeMonth": 881,
-    "timeYear": 954,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.95%",
+    "time": 958,
+    "timeDay": 831,
+    "timeWeek": 958,
+    "timeMonth": 892,
+    "timeYear": 958,
     "dailyMinutesDown": {
-      "2021-01-24": 0
+      "2021-01-24": 42
     }
   },
   {
