@@ -81,12 +81,12 @@
     "url": "https://home.dizy.lallemand.fr",
     "icon": "https://favicons.githubusercontent.com/home.dizy.lallemand.fr",
     "slug": "dizy",
-    "status": "up",
-    "uptime": "83.06%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "88.87%",
+    "status": "down",
+    "uptime": "83.13%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "88.94%",
     "uptimeMonth": "96.78%",
-    "uptimeYear": "83.06%",
+    "uptimeYear": "83.13%",
     "time": 5748,
     "timeDay": 12868,
     "timeWeek": 5763,
@@ -202,9 +202,7 @@
       "2020-12-17": 23,
       "2020-12-07": 65,
       "2020-12-01": 20,
-      "2020-11-30": 16,
-      "2020-11-29": 56,
-      "2020-11-28": 89
+      "2020-11-30": 16
     }
   }
 ]
