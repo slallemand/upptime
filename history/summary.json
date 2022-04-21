@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/cloud.lallemand.fr",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "67.19%",
+    "uptime": "67.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.59%",
-    "time": 712,
+    "uptimeYear": "54.31%",
+    "time": 713,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2022-04-20": 45,
+      "2022-04-21": 45,
+      "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
@@ -185,8 +186,7 @@
       "2021-11-05": 489,
       "2021-10-13": 96,
       "2021-08-10": 16,
-      "2021-05-15": 410,
-      "2021-04-21": 25
+      "2021-05-15": 410
     }
   },
   {
@@ -196,13 +196,13 @@
     "slug": "cormeilles",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.97%",
     "time": 979,
-    "timeDay": 1489,
-    "timeWeek": 1262,
+    "timeDay": 851,
+    "timeWeek": 1203,
     "timeMonth": 1173,
     "timeYear": 1029,
     "dailyMinutesDown": {
@@ -236,9 +236,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 888,
-    "timeDay": 1302,
-    "timeWeek": 1223,
-    "timeMonth": 889,
+    "timeDay": 558,
+    "timeWeek": 1178,
+    "timeMonth": 882,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2022-03-04": 23,
@@ -295,16 +295,16 @@
     "icon": "https://favicons.githubusercontent.com/home.dizy.lallemand.fr",
     "slug": "dizy",
     "status": "up",
-    "uptime": "90.13%",
+    "uptime": "90.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.37%",
-    "time": 3787,
-    "timeDay": 1494,
-    "timeWeek": 1300,
-    "timeMonth": 1185,
-    "timeYear": 2308,
+    "uptimeYear": "96.65%",
+    "time": 3783,
+    "timeDay": 1209,
+    "timeWeek": 1244,
+    "timeMonth": 1195,
+    "timeYear": 2307,
     "dailyMinutesDown": {
       "2022-03-16": 20,
       "2022-01-02": 140,
@@ -363,8 +363,7 @@
       "2021-04-25": 1284,
       "2021-04-24": 1440,
       "2021-04-23": 1440,
-      "2021-04-22": 1440,
-      "2021-04-21": 1440
+      "2021-04-22": 1440
     }
   }
 ]
