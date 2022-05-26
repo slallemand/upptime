@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.82%",
+    "uptimeYear": "44.81%",
     "time": 720,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2022-05-25": 1423,
+      "2022-05-26": 55,
+      "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -330,18 +331,19 @@
     "icon": "https://favicons.githubusercontent.com/home.dizy.lallemand.fr",
     "slug": "dizy",
     "status": "down",
-    "uptime": "90.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.01%",
+    "uptime": "90.98%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "98.00%",
     "time": 3072,
     "timeDay": 992,
     "timeWeek": 1300,
     "timeMonth": 1242,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2022-05-25": 0,
+      "2022-05-26": 55,
+      "2022-05-25": 17,
       "2022-03-16": 20,
       "2022-01-02": 140,
       "2021-12-31": 51,
@@ -389,8 +391,7 @@
       "2021-06-13": 55,
       "2021-06-02": 214,
       "2021-05-28": 491,
-      "2021-05-27": 587,
-      "2021-05-26": 227
+      "2021-05-27": 587
     }
   }
 ]
