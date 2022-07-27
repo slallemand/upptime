@@ -7,9 +7,7 @@ sites:
   - name: Nextcloud
     url: https://cloud.lallemand.fr
   - name: Cormeilles
-    url: https://home.cormeilles.lallemand.fr
-  - name: https://productmodeler.axa.com
-    url: https://productmodeler.axa.com
+    url: https://home-cormeilles.lallemand.fr
   - name: Dizy
     url: https://home.dizy.lallemand.fr
 
