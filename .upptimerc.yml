@@ -6,6 +6,9 @@ repo: upptime # Your Github repository name
 sites:
   - name: Cormeilles
     url: https://home-cormeilles.lallemand.fr
+    headers:
+      - "CF-Access-Client-Id: $CF-ClientID"
+      - "CF-Access-Client-Secret: $CF-ClientSecret"
   - name: Dizy
     url: https://home.dizy.lallemand.fr
 
