@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/home-cormeilles.lallemand.fr",
     "slug": "cormeilles",
     "status": "up",
-    "uptime": "89.51%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptime": "89.52%",
+    "uptimeDay": "15.94%",
+    "uptimeWeek": "2.28%",
+    "uptimeMonth": "1.90%",
     "uptimeYear": "82.68%",
     "time": 1028,
-    "timeDay": 219,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 1147,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2022-07-27": 1262,
       "2022-07-26": 1440,
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
-    "time": 2021,
-    "timeDay": 809,
-    "timeWeek": 784,
-    "timeMonth": 810,
-    "timeYear": 1680,
+    "time": 2010,
+    "timeDay": 813,
+    "timeWeek": 783,
+    "timeMonth": 796,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2022-05-29": 409,
       "2022-05-28": 416,
@@ -143,8 +143,7 @@
       "2021-08-08": 21,
       "2021-08-04": 138,
       "2021-08-03": 80,
-      "2021-08-02": 106,
-      "2021-07-28": 19
+      "2021-08-02": 106
     }
   }
 ]
