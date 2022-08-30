@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/home-cormeilles.lallemand.fr",
     "slug": "cormeilles",
     "status": "up",
-    "uptime": "90.04%",
+    "uptime": "90.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.68%",
     "time": 1028,
-    "timeDay": 647,
-    "timeWeek": 652,
-    "timeMonth": 742,
+    "timeDay": 729,
+    "timeWeek": 654,
+    "timeMonth": 748,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2022-07-27": 1262,
@@ -103,16 +103,16 @@
     "icon": "https://favicons.githubusercontent.com/home.dizy.lallemand.fr",
     "slug": "dizy",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.03%",
-    "time": 1924,
-    "timeDay": 695,
-    "timeWeek": 780,
+    "uptimeYear": "99.06%",
+    "time": 1922,
+    "timeDay": 668,
+    "timeWeek": 787,
     "timeMonth": 821,
-    "timeYear": 1433,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2022-08-26": 57,
       "2022-08-24": 67,
@@ -136,8 +136,7 @@
       "2021-09-09": 17,
       "2021-09-06": 159,
       "2021-09-05": 18,
-      "2021-09-01": 88,
-      "2021-08-30": 21
+      "2021-09-01": 88
     }
   }
 ]
