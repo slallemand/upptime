@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/home-cormeilles.lallemand.fr.ico",
     "slug": "cormeilles",
     "status": "up",
-    "uptime": "91.42%",
+    "uptime": "91.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "83.64%",
-    "time": 993,
-    "timeDay": 546,
-    "timeWeek": 581,
-    "timeMonth": 592,
+    "time": 992,
+    "timeDay": 710,
+    "timeWeek": 573,
+    "timeMonth": 599,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2022-07-27": 1262,
@@ -93,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.dizy.lallemand.fr.ico",
     "slug": "dizy",
     "status": "up",
-    "uptime": "93.37%",
+    "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.58%",
-    "time": 1130,
-    "timeDay": 828,
-    "timeWeek": 793,
-    "timeMonth": 753,
-    "timeYear": 1024,
+    "time": 1105,
+    "timeDay": 1038,
+    "timeWeek": 822,
+    "timeMonth": 762,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2022-11-21": 252,
       "2022-11-03": 124,
@@ -114,8 +114,7 @@
       "2022-05-25": 17,
       "2022-03-16": 20,
       "2022-01-02": 140,
-      "2021-12-31": 51,
-      "2021-12-10": 245
+      "2021-12-31": 51
     }
   }
 ]
