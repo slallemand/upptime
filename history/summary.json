@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.80%",
-    "time": 796,
-    "timeDay": 443,
-    "timeWeek": 539,
+    "uptimeYear": "86.07%",
+    "time": 793,
+    "timeDay": 511,
+    "timeWeek": 545,
     "timeMonth": 544,
-    "timeYear": 625,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2022-07-27": 1262,
       "2022-07-26": 1440,
@@ -65,8 +65,7 @@
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
-      "2022-06-08": 1440,
-      "2022-06-07": 1440
+      "2022-06-08": 1440
     }
   },
   {
@@ -75,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.dizy.lallemand.fr.ico",
     "slug": "dizy",
     "status": "up",
-    "uptime": "94.89%",
+    "uptime": "94.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 944,
-    "timeDay": 633,
-    "timeWeek": 759,
-    "timeMonth": 811,
+    "timeDay": 940,
+    "timeWeek": 812,
+    "timeMonth": 810,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2023-04-19": 27,
