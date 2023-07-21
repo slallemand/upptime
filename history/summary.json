@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/home-cormeilles.lallemand.fr.ico",
     "slug": "cormeilles",
     "status": "up",
-    "uptime": "93.40%",
+    "uptime": "93.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.85%",
-    "time": 733,
-    "timeDay": 494,
-    "timeWeek": 515,
-    "timeMonth": 491,
+    "uptimeYear": "98.12%",
+    "time": 730,
+    "timeDay": 459,
+    "timeWeek": 478,
+    "timeMonth": 489,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2022-07-27": 1262,
@@ -21,8 +21,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   },
   {
@@ -37,8 +36,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 908,
-    "timeDay": 1124,
-    "timeWeek": 796,
+    "timeDay": 640,
+    "timeWeek": 770,
     "timeMonth": 790,
     "timeYear": 804,
     "dailyMinutesDown": {
