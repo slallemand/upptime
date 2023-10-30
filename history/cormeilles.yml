@@ -1,7 +1,7 @@
 url: https://home-cormeilles.lallemand.fr
-status: down
-code: 500
-responseTime: 195
-lastUpdated: 2023-10-30T19:56:32.597Z
+status: up
+code: 200
+responseTime: 525
+lastUpdated: 2023-10-30T20:31:26.938Z
 startTime: 2020-11-28T20:31:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
