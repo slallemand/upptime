@@ -4,7 +4,7 @@
     "url": "https://home-cormeilles.lallemand.fr",
     "icon": "https://icons.duckduckgo.com/ip3/home-cormeilles.lallemand.fr.ico",
     "slug": "cormeilles",
-    "status": "up",
+    "status": "down",
     "uptime": "94.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 524,
     "timeYear": 532,
     "dailyMinutesDown": {
+      "2024-02-12": 0,
       "2023-10-30": 35
     }
   },
